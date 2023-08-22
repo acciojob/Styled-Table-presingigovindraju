@@ -8,6 +8,8 @@
 }
 table{
 	border-style:none;
+	radius:10px;
+	box-sizzing:border-box;
 }
 .n{
 	background:#ffffff;
